@@ -2,7 +2,7 @@
 100 Days of Machine Learning challenge
 
 Day 1 (1/28/2020)
-* Led the paper discussion for AI@UCF on 
+* Led the paper discussion for AI@UCF on Applying Deep Learning to Right Whale Photo Identification
 
 Day 2 (1/29/2020)
 * Read part 1 of [SpinningUp RL from OpenAI](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html)
