@@ -11,3 +11,4 @@ Day 3 (1/30/2020)
 * Listened to 2 episodes of [TWIMLAI Podcast]https://twimlai.com/) both centered around applications of Reinforcement Learning
 
 Day 4 (1/31/2020)
+* Watched 3 videos of [Sentdex's Pytorch series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh)
