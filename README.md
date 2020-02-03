@@ -29,3 +29,4 @@ Day 7 (2/3/2020)
 * Watched 1st lecture from [Stanfords Winter 2019 Reinforcement Learning course](http://web.stanford.edu/class/cs234/CS234Win2019/index.html)
 * Listened to [Helping Fish Farmers Feed the World with Deep Learning w/ Bryton Shang
 ](https://twimlai.com/twiml-talk-327-helping-fish-farmers-feed-the-world-with-deep-learning-w-bryton-shang/)
+* Watched X minutes of Fast.ai [Practical Deep Learning for Coders lesson 01](https://course.fast.ai/videos/?lesson=1)
