@@ -30,3 +30,7 @@ Day 7 (2/3/2020)
 * Listened to [Helping Fish Farmers Feed the World with Deep Learning w/ Bryton Shang
 ](https://twimlai.com/twiml-talk-327-helping-fish-farmers-feed-the-world-with-deep-learning-w-bryton-shang/)
 * Watched 52 minutes of Fast.ai [Practical Deep Learning for Coders lesson 01](https://course.fast.ai/videos/?lesson=1)
+
+Day 8 (2/4/2020)
+* Finished Lex Friedman's [Intro to Deep RL](https://www.youtube.com/watch?v=zR11FLZ-O9M)
+* Listened to two episodes of [Linear Digressions](http://lineardigressions.com/)
