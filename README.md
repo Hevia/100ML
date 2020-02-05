@@ -35,3 +35,7 @@ Day 8 (2/4/2020)
 * Finished Lex Friedman's [Intro to Deep RL](https://www.youtube.com/watch?v=zR11FLZ-O9M)
 * Listened to two episodes of [Linear Digressions](http://lineardigressions.com/)
 * Listened to Microsoft Researc podcast - [Malmo, Minecraft and machine learning with Dr. Katja Hofmann](https://www.microsoft.com/en-us/research/blog/malmo-minecraft-and-machine-learning-with-dr-katja-hofmann/)
+
+Day 9 (2/5/2020)
+* Watched [Henry AI Labs AI Weekly](https://www.youtube.com/watch?v=N9jsScucOXs)
+* Watched [Henry AI labs video on MuZero](https://www.youtube.com/watch?v=szbvm8aNDxw)
