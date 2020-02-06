@@ -6,7 +6,7 @@
 I have always wanted to be proficient at ML before I graduate Undergrad. I saw someone else doing this challenge on reddit and figured it would be fun! Since I am full time student not every single day needs to involve intense practice. 
 
 **Rules**:
-* Engage with AI, ML, or Data Sci in some shape or form for the day. Even something as small as watching a single video or reading a news article.
+* Engage with AI, ML, Evolutionary Computation, Cognitive Science, or Data Sci in some shape or form for the day. Even something as small as watching a single video or reading a news article.
 * Link & share what was done for the day and quantifiy the amount done where possible. 
 
 **What I am working through currently**:
