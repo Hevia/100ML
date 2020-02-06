@@ -59,3 +59,4 @@ Day 9 (2/5/2020)
 * Developed a small LSTM using Brain.js to generate Scribbletune patterns for my Brain Beats senior design project (it performed quite badly)
 * Watched [Bayes theorem, and making probability intuitive
 ](https://www.youtube.com/watch?v=HZGCoVF3YvM)
+* * Watched 1 episode of [Sentdex's Pytorch series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh)
