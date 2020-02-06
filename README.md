@@ -1,6 +1,20 @@
 # 100ML
-100 Days of Machine Learning challenge
+100 Days of Machine Learning challenge.
 
+**Motivation**: I have always wanted to be proficient at ML before I graduate Undergrad. I saw someone else doing this challenge on reddit and figured it would be fun! Since I am full time student not every single day needs to involve intense practice. 
+
+**Rules**: 
+* Engage with AI, ML, or Data Sci in some shape or form for the day. Even something as small as watching a single video or reading a news article.
+* Link & share what was done for the day and quantifiy the amount done where possible. 
+
+## What I am working through currently:
+* Tutorials:  [Sentdex's Pytorch series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh)
+* Book: How to Create a Mind by Ray Kurweil 
+* Course: 
+
+
+## Daily Journal:
+---------------------------------------------------------------------------------------------------------------
 Day 1 (1/28/2020)
 * Led the paper discussion for AI@UCF on Applying Deep Learning to Right Whale Photo Identification
 
@@ -35,7 +49,9 @@ Day 8 (2/4/2020)
 * Finished Lex Friedman's [Intro to Deep RL](https://www.youtube.com/watch?v=zR11FLZ-O9M)
 * Listened to two episodes of [Linear Digressions](http://lineardigressions.com/)
 * Listened to Microsoft Researc podcast - [Malmo, Minecraft and machine learning with Dr. Katja Hofmann](https://www.microsoft.com/en-us/research/blog/malmo-minecraft-and-machine-learning-with-dr-katja-hofmann/)
+* Participated in the paper discussion for AI@UCF on [Learning to Shoot in FPS games with Reinforcement Learning](https://arxiv.org/abs/1806.05117v1)
 
 Day 9 (2/5/2020)
 * Watched [Henry AI Labs AI Weekly](https://www.youtube.com/watch?v=N9jsScucOXs)
 * Watched [Henry AI labs video on MuZero](https://www.youtube.com/watch?v=szbvm8aNDxw)
+* Watched [Kaggle Reading Group: Learning from Dialogue after Deployment](https://www.youtube.com/watch?v=PhTF7yJNR70&list=PLqFaTIg4myu8t5ycqvp7I07jTjol3RCl9&index=2&t=3243s)
