@@ -3,18 +3,17 @@
 
 **Motivation**: I have always wanted to be proficient at ML before I graduate Undergrad. I saw someone else doing this challenge on reddit and figured it would be fun! Since I am full time student not every single day needs to involve intense practice. 
 
-**Rules**: 
+**Rules**:
 * Engage with AI, ML, or Data Sci in some shape or form for the day. Even something as small as watching a single video or reading a news article.
 * Link & share what was done for the day and quantifiy the amount done where possible. 
 
-## What I am working through currently:
-* Tutorials:  [Sentdex's Pytorch series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh)
-* Book: How to Create a Mind by Ray Kurweil 
-* Course: 
+**What I am working through currently**:
+* **Tutorials**:  [Sentdex's Pytorch series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh)
+* **Book**: How to Create a Mind by Ray Kurweil 
+* **Course**: [Introduction to Statistical Learning](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 
 
 ## Daily Journal:
----------------------------------------------------------------------------------------------------------------
 Day 1 (1/28/2020)
 * Led the paper discussion for AI@UCF on Applying Deep Learning to Right Whale Photo Identification
 
