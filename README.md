@@ -2,6 +2,7 @@
 100 Days of Machine Learning challenge.
 
 **Motivation**: 
+
 I have always wanted to be proficient at ML before I graduate Undergrad. I saw someone else doing this challenge on reddit and figured it would be fun! Since I am full time student not every single day needs to involve intense practice. 
 
 **Rules**:
