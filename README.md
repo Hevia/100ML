@@ -56,3 +56,6 @@ Day 9 (2/5/2020)
 * Watched [Henry AI Labs AI Weekly](https://www.youtube.com/watch?v=N9jsScucOXs)
 * Watched [Henry AI labs video on MuZero](https://www.youtube.com/watch?v=szbvm8aNDxw)
 * Watched [Kaggle Reading Group: Learning from Dialogue after Deployment](https://www.youtube.com/watch?v=PhTF7yJNR70&list=PLqFaTIg4myu8t5ycqvp7I07jTjol3RCl9&index=2&t=3243s)
+* Developed a small LSTM using Brain.js to generate Scribbletune patterns for my Brain Beats senior design project (it performed quite badly)
+* Watched [Bayes theorem, and making probability intuitive
+](https://www.youtube.com/watch?v=HZGCoVF3YvM)
