@@ -60,3 +60,12 @@ Day 9 (2/5/2020)
 * Watched [Bayes theorem, and making probability intuitive
 ](https://www.youtube.com/watch?v=HZGCoVF3YvM)
 * Watched 1 episode of [Sentdex's Pytorch series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh)
+
+Day 10 (2/6/2020)
+* Listened to 2 episodes of [TWIMLAI Podcast](https://twimlai.com/) both involving MLOps and deploying models in production
+* Read 22 pages on How to Create a Mind
+* Listened to [Interview with Juergen Schmidhuber on the AI podcast](https://www.youtube.com/watch?v=3FIo6evmweo)
+
+Day 11 (2/7/2020)
+* Watched 3 videos from [Introduction to Statistical Learning](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
+ 
