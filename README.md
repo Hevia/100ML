@@ -68,4 +68,8 @@ Day 10 (2/6/2020)
 
 Day 11 (2/7/2020)
 * Watched 3 videos from [Introduction to Statistical Learning](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
+
+Day 12 (2/8/2020)
+* Listened to X episodes from 
+* Watched [Sentdex's Pytorch series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh)
  
