@@ -63,13 +63,23 @@ Day 9 (2/5/2020)
 
 Day 10 (2/6/2020)
 * Listened to 2 episodes of [TWIMLAI Podcast](https://twimlai.com/) both involving MLOps and deploying models in production
-* Read 22 pages on How to Create a Mind
+* Read 22 pages from How to Create a Mind
 * Listened to [Interview with Juergen Schmidhuber on the AI podcast](https://www.youtube.com/watch?v=3FIo6evmweo)
 
 Day 11 (2/7/2020)
 * Watched 3 videos from [Introduction to Statistical Learning](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 
 Day 12 (2/8/2020)
-* Listened to X episodes from 
-* Watched [Sentdex's Pytorch series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh)
- 
+* Listened to the 1st episode of [Brain Inspiried](https://braininspired.co/)
+* Watched 2 videos from [Sentdex's Pytorch series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh)
+
+Day 13 (2/9/2020)
+* Read 13 pages from How To Create a Mind
+* Documented and solidifed the ML workflow for [Brain Beats](https://github.com/BrainBeatsUCF)
+* Listened to the 2nd episode of [Brain Inspiried](https://braininspired.co/)
+* Began reading [Pure Reasoning in 12-Month-Old Infants as Probabilistic Inference](https://science.sciencemag.org/content/sci/332/6033/1054.full.pdf)
+
+Day 14 (2/10/2020)
+* Listened to the 3rd episode of [Brain Inspiried](https://braininspired.co/)
+ * Finished reading [Pure Reasoning in 12-Month-Old Infants as Probabilistic Inference](https://science.sciencemag.org/content/sci/332/6033/1054.full.pdf)
+ * Began writing reflective blogpost on the first 10 days
