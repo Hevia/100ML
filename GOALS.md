@@ -10,5 +10,3 @@
 [ ] Recreate that same NN from scratch
 [ ] The math behind backpropagation 
 
-[ ] Reflective posts
-  [ ] 10/100 Days
