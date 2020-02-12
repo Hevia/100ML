@@ -83,7 +83,7 @@ Day 14 (2/10/2020)
 * Listened to the 3rd episode of [Brain Inspiried](https://braininspired.co/)
 * Finished reading [Pure Reasoning in 12-Month-Old Infants as Probabilistic Inference](https://science.sciencemag.org/content/sci/332/6033/1054.full.pdf)
 * Began writing reflective blogpost on the first 10 days
-* Started working on a Feedforward Network that can solve simple math problems
+* Started working on a Feedforward Network that can solve simple math problems (Mainly data generation)
 * Attended the Intro to CUDA workshop by KnightHacks
  
 Day 15 (2/11/2020)
@@ -91,3 +91,4 @@ Day 15 (2/11/2020)
 * Participated in the paper discussion for AI@UCF on [Pure Reasoning in 12-Month-Old Infants as Probabilistic Inference](https://science.sciencemag.org/content/sci/332/6033/1054.full.pdf)
 
 Day 16 (2/12/2020)
+* Debugging issues with my Neural Network for Math problems from Day 14
