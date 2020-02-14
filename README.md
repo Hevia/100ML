@@ -95,3 +95,5 @@ Day 16 (2/12/2020)
 
 Day 17 (2/13/2020)
 * Watched [Deep Learning for Symbolic Mathematics by Kaggle reading Group](https://www.youtube.com/watch?v=q_cMExRsJl8&list=PLqFaTIg4myu8t5ycqvp7I07jTjol3RCl9&index=6&t=0s)
+
+Day 18 (2/14/2020)
