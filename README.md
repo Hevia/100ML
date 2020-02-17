@@ -106,3 +106,8 @@ Day 19 (2/15/2020)
 
 Day 20 (2/16/2020)
 * Explained modern ML trends to my 63 year old mother (Meena, GPT2, StyleGANs)
+
+Day 21 (2/17/2020)
+* Discussed revisions for FAIble paper (my first ever paper that was accepted into Florida AI conference as a long paper!)
+* Started read [Software Developers Learning Machine Learning:
+Motivations, Hurdles, and Desires](http://www.pgbovine.net/publications/software-developers-learning-machine-learning_VLHCC-2019.pdf)
