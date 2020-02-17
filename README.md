@@ -97,3 +97,12 @@ Day 17 (2/13/2020)
 * Watched [Deep Learning for Symbolic Mathematics by Kaggle reading Group](https://www.youtube.com/watch?v=q_cMExRsJl8&list=PLqFaTIg4myu8t5ycqvp7I07jTjol3RCl9&index=6&t=0s)
 
 Day 18 (2/14/2020)
+* Watched [Why AlphaStar does not solve Gaming AIs problems](https://www.youtube.com/watch?v=84VVFxHAdSY)
+* Watched [GPT Explained](https://www.youtube.com/watch?v=9ebPNEHRwXU)
+* Watched [How AlphaStar became a Starcraft Grandmaster](https://www.youtube.com/watch?v=lPERfjRaZug)
+
+Day 19 (2/15/2020)
+* Read [Towards a Computational Model of Artificial Intuition and Decision Making](https://link.springer.com/chapter/10.1007/978-3-030-29035-1_45) (sidenote: Great paper!)
+
+Day 20 (2/16/2020)
+* Explained modern ML trends to my 63 year old mother (Meena, GPT2, StyleGANs)
