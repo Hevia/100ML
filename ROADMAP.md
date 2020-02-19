@@ -37,15 +37,27 @@ I went about my studying by splitting up everything into 5 categories:
 * [Fastai Foundations]()
 * [ESLR]()
 * [Pattern Recognition]()
+* [Microsoft's NLP Course](https://www.edx.org/course/natural-language-processing-nlp-2)
 
 
 ### Articles/Papers:
 * https://www.wired.com/story/ai-epidemiologist-wuhan-public-health-warnings/
 * https://towardsdatascience.com/a-complete-pandas-glossary-for-data-science-a3bdd37febeb
+* https://www.fast.ai/2016/10/08/teaching-philosophy/
+
+### Projects/Challenges
+* https://www.aicrowd.com/challenges/flatland-challenge/
+* https://www.aicrowd.com/challenges/snake-species-identification-challenge
+* https://www.aicrowd.com/challenges/unity-obstacle-tower-challenge
+* https://www.kaggle.com/c/allstate-claims-severity/overview
 
 ### Unordered
+* https://store.shahinrostami.com/product/practical-evolutionary-algorithms-book/
+* https://towardsdatascience.com/understanding-compositional-pattern-producing-networks-810f6bef1b88
 * https://colah.github.io/
 * https://twitter.com/iamtrask
 * [Matrix Calculus for ML](https://explained.ai/matrix-calculus/index.html)
 * https://betterexplained.com/
 * https://vimeo.com/214233053
+* https://joao-abrantes.com/posts/mimicking-evolution-with-reinforcement-learning/
+* [Understanding RL, The Bellman Eqauations](https://joshgreaves.com/reinforcement-learning/understanding-rl-the-bellman-equations/)
