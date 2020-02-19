@@ -38,20 +38,66 @@ I went about my studying by splitting up everything into 5 categories:
 * [ESLR]()
 * [Pattern Recognition]()
 * [Microsoft's NLP Course](https://www.edx.org/course/natural-language-processing-nlp-2)
-
+* [Rigourous ML Course](https://www.cse.iitm.ac.in/~ravi/courses/Reinforcement%20Learning.html)
+* [Practical RL Course](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/)
+* [MIT Cognitive Science Summer school](https://cbmm.mit.edu/summer-school)
+* [PyTorch Zero to All](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&disable_polymer=true)
+* [Mathematics for ML](https://www.coursera.org/specializations/mathematics-machine-learning#courses)
+* [Matrix Methods in ML](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/index.htm)
+* [Gilbert Strang lectures on Linear Algebra](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
+* [Introduction to Neural Coding and Computation](https://faculty.washington.edu/etsb/AMATH342/)
+* [Introduction to NLP](https://www.youtube.com/playlist?list=PLM8wYQRetTxCCURc1zaoxo9pTsoov3ipY)
+* [Deep Learning for Audio](https://www.youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf)
+* [Unity RL Course](http://www.simoninithomas.com/unitymlagentscourse/)
+* [Deep Generative Models](https://deepgenerativemodels.github.io/)
+* [How to win Data Science Comps](https://www.youtube.com/playlist?list=PLpQWTe-45nxL3bhyAJMEs90KF_gZmuqtm)
+* [Artifical Intelligence MITOCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)
 
 ### Articles/Papers:
 * https://www.wired.com/story/ai-epidemiologist-wuhan-public-health-warnings/
 * https://towardsdatascience.com/a-complete-pandas-glossary-for-data-science-a3bdd37febeb
 * https://www.fast.ai/2016/10/08/teaching-philosophy/
+* https://spinningup.openai.com/en/latest/spinningup/keypapers.html
+* http://joschu.net/blog/opinionated-guide-ml-research.html
+* https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+* https://towardsdatascience.com/neural-architecture-search-nas-the-future-of-deep-learning-c99356351136
+* https://www.oreilly.com/content/what-is-neural-architecture-search/
+* https://en.wikipedia.org/wiki/Neural_architecture_search
+* https://www.reddit.com/r/MachineLearning/comments/ezv3f2/p_gpt2_bert_reddit_replier_i_built_a_system_that/
+* https://towardsdatascience.com/the-math-behind-gans-generative-adversarial-networks-3828f3469d9c
+* https://en.wikipedia.org/wiki/Bayesian_cognitive_science
 
 ### Projects/Challenges
 * https://www.aicrowd.com/challenges/flatland-challenge/
 * https://www.aicrowd.com/challenges/snake-species-identification-challenge
 * https://www.aicrowd.com/challenges/unity-obstacle-tower-challenge
 * https://www.kaggle.com/c/allstate-claims-severity/overview
+* [ML Course (Just the exercises)](https://www.cs.toronto.edu/~jlucas/teaching/csc411/)
+* https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview/tutorials
 
 ### Unordered
+* https://github.com/Mortiniera/Data_Science_Portfolio
+* https://stanfordmlgroup.github.io/programs/aicc-bootcamp/
+* https://www.reddit.com/r/cogsci/wiki/readinglist?utm_source=reddit&utm_medium=usertext&utm_name=cogsci&utm_content=t5_2qh0k
+* https://www.youtube.com/playlist?list=PLM8wYQRetTxCPEtBi03-svODQsx704xtx
+* https://www.youtube.com/user/HeatonResearch/videos
+* https://www.youtube.com/results?search_query=generative+adversarial+network
+* https://wiki.ece.cmu.edu/ddl/index.php/Coevolutionary_algorithms
+* https://wcarvalho.github.io/ML-Brain-Resources/
+* https://github.com/Avik-Jain/100-Days-Of-ML-Code
+* https://github.com/practicalAI/practicalAI
+* https://github.com/ZuzooVn/machine-learning-for-software-engineers
+* https://www.reddit.com/r/learnmachinelearning/comments/adwft2/all_the_math_you_might_need_for_machine_learning/
+* https://www.reddit.com/r/learnmachinelearning/comments/dkk0up/cornells_entire_machine_learning_class_cs_4780_is/
+* https://www.reddit.com/r/cogsci/comments/334c85/my_top_8_cogsci_and_neuro_podcasts_searching_for/
+* https://nbviewer.jupyter.org/github/vinsis/math-and-ml-notes/blob/master/notebooks/Transformer%20-%20Illustration%20and%20code.ipynb
+* https://eng.uber.com/generative-teaching-networks/
+* https://www.reddit.com/r/MachineLearning/comments/d7p4gy/d_what_are_your_favorite_youtube_channels_that/
+* https://towardsdatascience.com/a-very-simple-evolutionary-reinforcement-learning-approach-ab1cd3523255
+* https://towardsdatascience.com/reinforcement-learning-without-gradients-evolving-agents-using-genetic-algorithms-8685817d84f
+* https://colab.research.google.com/drive/1VLG8e7YSEwypxU-noRNhsv5dW4NfTGce
+* https://github.com/minimaxir/gpt-2-simple
+* https://medium.com/@dongphilyoo/how-to-train-pix2pix-model-and-generating-on-the-web-with-ml5-js-87d879fb4224
 * https://store.shahinrostami.com/product/practical-evolutionary-algorithms-book/
 * https://towardsdatascience.com/understanding-compositional-pattern-producing-networks-810f6bef1b88
 * https://colah.github.io/
