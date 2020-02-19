@@ -111,3 +111,11 @@ Day 21 (2/17/2020)
 * Discussed revisions for FAIble paper (my first ever paper that was accepted into Florida AI conference as a long paper!)
 * Started read [Software Developers Learning Machine Learning:
 Motivations, Hurdles, and Desires](http://www.pgbovine.net/publications/software-developers-learning-machine-learning_VLHCC-2019.pdf)
+
+Day 22 (2/18/2020)
+* Practiced for workshop I am cohosting on Azure's VideoIndexer for KnightHacks
+* Participated in the paper discussion for AI@UCF on [Towards a Computational Model of Artificial Intuition and Decision Making](https://link.springer.com/chapter/10.1007/978-3-030-29035-1_45)
+
+Day 23 (2/19/2020)
+* Finished reading [Software Developers Learning Machine Learning:
+Motivations, Hurdles, and Desires](http://www.pgbovine.net/publications/software-developers-learning-machine-learning_VLHCC-2019.pdf)
