@@ -10,7 +10,7 @@ I went about my studying by splitting up everything into 5 categories:
 
 
 ### Tutorials:
-https://lelon.io/blog/2018/02/08/pytorch-with-baby-steps
+[PyTorch Baby Steps](https://lelon.io/blog/2018/02/08/pytorch-with-baby-steps)
 https://colab.research.google.com/drive/1IUe9lfoIiQsL49atSOgxnCmMR_zJazKI#scrollTo=lDJIV2EVBuFZ
 
 
