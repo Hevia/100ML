@@ -1,57 +1,30 @@
 Somewhat complete roadmap of what to study and when to study it. This is a personal bookmark but hopefully it serves you well on your ML journey!
 
-I went about my studying by splitting up everything into 5 categories:
-* Tutorials - Focused on *applying* AI/ML techniques or showcasing how to use them. This bucket is for resources that I considered less academically rigorous then a course.  
-* Books - This bucket mainly covers lighter overviews of a topic. I would not put something as the Deep Learning book or ISLR in here. Basically if it had end of chapter exercises it was meant for courses. 
-* Projects - 
-* Courses - 
-* Articles/Papers - This is mainly an unordered set of resources I find. I'll read them whenever they seem relevant. 
-
-
-
 ### Courses/Tutorials:
 1. [Sentdex PyTorch series]()
 2. [PyTorch Baby Steps](https://lelon.io/blog/2018/02/08/pytorch-with-baby-steps)
-3. [Fastai Course v3]()
+3a. [Fastai Course v3]()
+3b. [Fastai Foundations]()
 4. [Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 5. [Deep Learning Book part 1](http://neuralnetworksanddeeplearning.com/index.html)
 6. [Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 7. [Essence of Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 8. [Andrew Ng Course](https://www.coursera.org/learn/machine-learning)
 9. [Pandas From The Ground Up - PyCon 2015](https://youtu.be/5JnMutdy6Fw)
+10. [Data Science from Scratch](https://github.com/joelgrus/data-science-from-scratch)
+11. [ISLR](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
+12. [Grokking Deep Learning](https://github.com/iamtrask/Grokking-Deep-Learning)
+13a. [Evolutionary Robotics Course](https://www.youtube.com/playlist?list=PLAuiGdPEdw0inlKisMbjDypCbvcb_GBN9)
+13b. [Evolutionary Robotics Course Syllabus](https://docs.google.com/spreadsheets/d/1uaBpkv0fpSPGmgA8tbHBgRCI-cL2Qyx6gwnhzBJYJUE/edit#gid=0)
+14. [How to win Data Science Comps](https://www.youtube.com/playlist?list=PLpQWTe-45nxL3bhyAJMEs90KF_gZmuqtm)
+15. [60 Days of Reinforcement Learning](https://github.com/andri27-ts/Reinforcement-Learning)
+16. [Gilbert Strang lectures on Linear Algebra](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
+17. [Mathematics for ML](https://www.coursera.org/specializations/mathematics-machine-learning#courses)
+18. [Deep Generative Models](https://deepgenerativemodels.github.io/)
+19. [MIT Cognitive Science Summer school](https://cbmm.mit.edu/summer-school)
+20. [ESLR]()
+21. [Pattern Recognition]()
 
-
-* [60 Days of Reinforcement Learning](https://github.com/andri27-ts/Reinforcement-Learning)
-* [Stanford Reinforcement Learning, Winter 2019](http://web.stanford.edu/class/cs234/CS234Win2019/index.html)
-* [3Blue1Brown's Differential Equations](https://www.youtube.com/watch?v=p_di4Zn4wz4&list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)
-* [Hands on ML with Scikit-Learn & Tensorflow]()
-* [Neural Networks book](http://neuralnetworksanddeeplearning.com/index.html)
-* [ISLR](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
-* [Data Science from Scratch](https://github.com/joelgrus/data-science-from-scratch)
-* [Evolutionary Robotics Course](https://www.youtube.com/playlist?list=PLAuiGdPEdw0inlKisMbjDypCbvcb_GBN9)
-* [Evolutionary Robotics Course Syllabus](https://docs.google.com/spreadsheets/d/1uaBpkv0fpSPGmgA8tbHBgRCI-cL2Qyx6gwnhzBJYJUE/edit#gid=0)
-* [Hidden Markov Models](https://colab.research.google.com/drive/1IUe9lfoIiQsL49atSOgxnCmMR_zJazKI#scrollTo=lDJIV2EVBuFZ)
-* [Nothing but NumPy](https://medium.com/towards-artificial-intelligence/nothing-but-numpy-understanding-creating-neural-networks-with-computational-graphs-from-scratch-6299901091b0)
-* [Deep Learning Book](https://www.deeplearningbook.org/)
-* [Grokking Deep Learning](https://github.com/iamtrask/Grokking-Deep-Learning)
-* [Fastai Foundations]()
-* [ESLR]()
-* [Pattern Recognition]()
-* [Microsoft's NLP Course](https://www.edx.org/course/natural-language-processing-nlp-2)
-* [Rigourous ML Course](https://www.cse.iitm.ac.in/~ravi/courses/Reinforcement%20Learning.html)
-* [Practical RL Course](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/)
-* [MIT Cognitive Science Summer school](https://cbmm.mit.edu/summer-school)
-* [PyTorch Zero to All](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&disable_polymer=true)
-* [Mathematics for ML](https://www.coursera.org/specializations/mathematics-machine-learning#courses)
-* [Matrix Methods in ML](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/index.htm)
-* [Gilbert Strang lectures on Linear Algebra](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
-* [Introduction to Neural Coding and Computation](https://faculty.washington.edu/etsb/AMATH342/)
-* [Introduction to NLP](https://www.youtube.com/playlist?list=PLM8wYQRetTxCCURc1zaoxo9pTsoov3ipY)
-* [Deep Learning for Audio](https://www.youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf)
-* [Unity RL Course](http://www.simoninithomas.com/unitymlagentscourse/)
-* [Deep Generative Models](https://deepgenerativemodels.github.io/)
-* [How to win Data Science Comps](https://www.youtube.com/playlist?list=PLpQWTe-45nxL3bhyAJMEs90KF_gZmuqtm)
-* [Artifical Intelligence MITOCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)
 
 ### Articles/Papers:
 * https://www.wired.com/story/ai-epidemiologist-wuhan-public-health-warnings/
@@ -107,3 +80,20 @@ I went about my studying by splitting up everything into 5 categories:
 * https://vimeo.com/214233053
 * https://joao-abrantes.com/posts/mimicking-evolution-with-reinforcement-learning/
 * [Understanding RL, The Bellman Eqauations](https://joshgreaves.com/reinforcement-learning/understanding-rl-the-bellman-equations/)
+
+
+### Extra Resources
+* [PyTorch Zero to All](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&disable_polymer=true)
+* [Stanford Reinforcement Learning, Winter 2019](http://web.stanford.edu/class/cs234/CS234Win2019/index.html)
+* [3Blue1Brown's Differential Equations](https://www.youtube.com/watch?v=p_di4Zn4wz4&list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)
+* [Hands on ML with Scikit-Learn & Tensorflow]()
+* [Neural Networks book](http://neuralnetworksanddeeplearning.com/index.html)
+* [Nothing but NumPy](https://medium.com/towards-artificial-intelligence/nothing-but-numpy-understanding-creating-neural-networks-with-computational-graphs-from-scratch-6299901091b0)
+* [Deep Learning Book](https://www.deeplearningbook.org/)
+* [Microsoft's NLP Course](https://www.edx.org/course/natural-language-processing-nlp-2)
+* [Rigourous RL Course](https://www.cse.iitm.ac.in/~ravi/courses/Reinforcement%20Learning.html)
+* [Practical RL Course](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/)
+* [Introduction to NLP](https://www.youtube.com/playlist?list=PLM8wYQRetTxCCURc1zaoxo9pTsoov3ipY)
+* [Deep Learning for Audio](https://www.youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf)
+* [Unity RL Course](http://www.simoninithomas.com/unitymlagentscourse/)
+* [Artifical Intelligence MITOCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)
