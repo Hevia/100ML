@@ -1,5 +1,5 @@
 # 100ML
-100 Days of Machine Learning challenge.
+100 Days of Meanningful Learning challenge.
 
 **Motivation**: 
 
